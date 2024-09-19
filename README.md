@@ -1,5 +1,66 @@
-# 💫 About Me:
-Name: Akshay<br>Role: You're likely someone who values efficiency and accuracy, possibly with professional or personal interests that involve detailed information and organization.<br>Assistant Role: I'm here to help you manage tasks, provide information, assist with research, and offer support in a personalized way.<br><br>Experience: 12 years as a C# developer with extensive expertise.<br>Specializations: E-commerce platforms, ASP.NET, Angular, Node.js, React, and Shopify.<br>Skills:<br>Backend Development: ASP.NET, C#, API integration, plugin development.<br>Frontend Development: Angular, React.<br>Full-Stack Expertise: End-to-end solutions in web and mobile app development.<br>E-commerce Platforms: Shopify, WooCommerce, with hands-on experience building apps, plugins, and customizing platforms.<br>API Development and Integration: Creating and integrating APIs to enhance software functionality.
+# 👋 Hi, I'm Akshay Mishra
+
+### 🚀 Senior Full-Stack Developer & E-commerce Expert
+
+I'm a seasoned developer with over 15 years of experience in software development, specializing in building and optimizing e-commerce platforms, web and mobile applications. My expertise spans various technologies including C#, ASP.NET, Angular, Node.js, React, Shopify, and WooCommerce.
+
+---
+
+### 🛠️ What I Do:
+
+- **Backend Development:**  
+  C#, ASP.NET, .NET Core, SQL Server, MySQL, API Integration, Plugin Development.
+  
+- **Frontend Development:**  
+  Angular, React, HTML5, CSS3, JavaScript, jQuery, Bootstrap.
+  
+- **E-commerce Platforms:**  
+  Shopify, WooCommerce – Custom apps, plugins, API integration, and performance optimization.
+  
+- **Mobile Technologies:**  
+  Ionic, Cordova, TypeScript for iOS and Android development.
+  
+- **API Integration:**  
+  Amazon, Logistics, Warehouse, Ecomdash, Etsy, Wayfair, ShipStation, and more.
+
+---
+
+### ✅ Key Highlights:
+
+- **15+ years of experience** in full-stack development and database architecture.
+- **Expert in business solutions**, specializing in custom development for complex e-commerce needs.
+- **Proven track record** of delivering high-quality, scalable solutions for clients worldwide.
+
+---
+
+### ⭐ Client Testimonials:
+
+> ⭐⭐⭐⭐⭐ “Akshay consistently delivers high-quality work, going above and beyond to meet our project needs.”  
+> ⭐⭐⭐⭐⭐ “Professional, timely, and highly skilled – Akshay transformed our Shopify store and exceeded expectations.”  
+> ⭐⭐⭐⭐⭐ “Reliable and knowledgeable, Akshay’s work consistently improves our website’s performance and user experience.”
+
+---
+
+### 💡 What I Offer:
+
+- **Shopify Development:**  
+  Custom store designs, theme development, speed optimization, SEO, app integration, and custom coding.
+
+- **WordPress Expertise:**  
+  Elementor, Divi, custom themes, and website optimization.
+
+- **API Integration:**  
+  Seamless connectivity with third-party systems to enhance functionality.
+
+- **Business Solutions:**  
+  Tailored strategies to elevate online presence and drive conversions.
+
+---
+
+### 🔍 Let’s Connect:
+
+If you're looking to elevate your e-commerce business or need a tech-savvy partner to bring your vision to life, let's work together to build something amazing. I’m dedicated to delivering results that exceed expectations, with a focus on innovation, quality, and client satisfaction.
+
 
 
 ## 🌐 Socials:
